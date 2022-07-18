@@ -1,0 +1,777 @@
+body{margin: 0 auto;}
+.css{
+    border: 1px solid rgb(50, 233, 184);
+    width: 1518px;
+    height: 600px;
+    background-color:rgb(50, 233, 184);
+margin: 0 auto;
+}
+.cssa{
+    border: 1px solid none;
+        height: 100px;
+        width: 1500px;
+        display: flex;
+        justify-content: space-between;
+        flex-direction: row;
+    }
+.css1{border: 1px solid none;
+        height: 100px;
+        width: 600px;
+        color: white;
+        font-size: 45px;
+        letter-spacing: 2;
+        padding: 1px 0px 1px 7px;
+        font-family:Monotype Corsiva;
+        text-decoration:3px underline white;
+}
+.css2{border: 1px solid none;
+        height:100px;
+        width: 600px;
+        display: inline-block;
+        font-family: Calibri;
+}
+.css2 ol li{border: 1px solid none;
+                display: inline-block;
+                font-size: 16px;
+                height: 60px;
+}
+.css2 ol li a{border: 1px solid none;
+                color:white;
+                text-decoration: none;
+}
+.css2 ol li  input{ border: 1px solid none;
+                    border:1px solid white ;
+                    color:white;
+                    background-color:rgb(41, 166, 133);
+                    height: 69%;
+                    width:150%;
+                    border-radius: 10px 10px 10px 10px;
+                    text-decoration:none;
+                    font-size: 16px;
+    }
+.css2 ol li input:hover{border: 1px solid none;
+                         background-color: rgb(50, 233, 184);
+}
+.css3{border: 1px solid none;
+        color: white; 
+        font-size: 66px;
+        font-family:Monotype Corsiva;
+        letter-spacing: 3;
+        font-weight: 500;
+        width: 700px;
+        text-shadow: 3px 3px 7px;
+        text-align: center;
+}
+.css4a{border: 1px solid none; 
+        width: 1500px;
+        display: flex;
+        align-items:center;
+        flex-direction: column;
+        margin-top: 100px;
+        justify-content: center;
+}
+.css4{border: 1px solid none;
+        color: white;
+        font-size:20px;
+        text-align: center;
+        font-family: Calibri;
+        width: 700px;
+}
+.css5{border: 1px solid none;
+        border: 1px solid white;
+        height: 600px;
+        width: 1500px;
+}
+.css6{border: 1px solid none;
+    font-size: 55px;
+    color: #777;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 3%;
+    text-decoration:underline rgb(50, 233, 184);
+}
+.css7{border: 1px solid none;
+    height:60%;
+    width:300px;
+    float:left;
+    margin: 1% 0px 0px 4%;
+    transition:transform 0.2s;
+}
+.css7:hover{
+    transform:translatey(-10px);
+}
+
+.css7 i{border: 1px solid none;
+    color:rgb(50, 233, 184) ;
+    padding: 4% ;
+    margin-left: 40%;}
+
+.css8{border: 1px solid none;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 4%;
+    font-family: Calibri;
+}
+.css9{border: 1px solid none;
+    color:#777;
+    text-align: center;
+    font-family: Calibri;
+    width: 70%;
+    margin-left:15% ;
+}
+.css10{
+    border:1px solid #777;
+    width: 1500px;
+    height: 600px;
+    background-color: #ddd;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.css11{border: 1px solid none;
+    height: 80%;
+    width: 49.5%;
+}
+.css11 img{border: 1px solid none;
+    height: 100%;
+    width: 100%;
+}
+.css11a{border: 1px solid none;
+    border: 1px solid none;
+}
+.css12{border: 1px solid none;
+    width: 8%;
+    height: 17%;
+    margin: 8% 0px 0px 8%;
+}
+.css12 i{border: 1px solid none;
+    border:2px solid rgb(50, 233, 184);
+    background-color: rgb(50, 233, 184) ;
+    border-radius: 100%;
+    color: white;
+    padding:25%;
+}
+.css13{border: 1px solid none;
+    font-size: 24px;
+    margin: -7% 0px 0px 19%;
+    font-family: Calibri;
+}
+.css14{border: 1px solid none;
+    font-family: calibri;
+    color:#777;
+    margin: 1% 0px 0px 19%
+}
+.css15{border: 1px solid none;
+    width:1500px;
+    height:905px;
+}
+.css16{border: 1px solid none;
+    font-size: 55px;
+    color: #777;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow',Arial, sans-serif;
+    margin-top: 3%;
+    text-decoration:underline rgb(50, 233, 184);
+}
+.css17{border: 1px solid none;
+    width:33%;
+    height: 40%;
+    float: left;
+}
+.css18{border: 2px solid none;
+    border: 1px solid white;
+    width: 100%;height: 360px;
+    background-color: rgb(228, 228, 228);
+    
+}
+.css19{border: 1px solid none;
+    height: 20%;
+    width: 100%;
+    text-align: center;
+    margin-top: 12%;
+}
+.css20{border: 1px solid none;
+    font-family: calibri;
+    font-weight:2px ;
+    font-size: 22px;
+    text-align: center;
+}
+.css21{border: 1px solid none;
+    font-family: calibri;
+    color:#777;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 3%;
+}
+.css22{border: 1px solid none;
+    height:500px;
+    width: 1515px;
+    background:url('../img/dashboard-img.jpg') fixed;
+    margin-top: 0 auto;
+    background-size: 100% 100%;
+}
+.css23{border: 1px solid none;
+    text-align: center;
+    color:rgb(49, 49, 49);
+    font-family: calibri;
+    font-size: 19px;
+}
+.css24{border: 1px solid none;
+    height: 1000px;
+    width: 1500px;
+    margin-top: 5%;
+}
+.css25{border: 1px solid none;
+    height:70%;
+    width: 25%;
+    float: left;
+    background-color: rgba(237, 235, 235, 0.272);
+    font-family:Calibri;
+    margin-left: 6%;
+    margin-top: 5%;
+}
+.css26{border: 1px solid none;
+    height:22%;
+    width: 100%;
+    text-align: center;
+    background-color: rgba(209, 206, 206, 0.219);
+    font-size: 27px;
+    color: rgb(66, 66, 66);
+    padding-top: 5%;
+    font-family:Calibri;
+}
+.css27{border: 1px solid none;
+    height:8%;
+    width: 100%;
+    text-align: center;
+    padding-top: 5%;
+    color: rgb(36, 35, 35);
+    background-color: rgba(209, 206, 206, 0.331);
+    font-family:Calibri;
+}
+.css28{border: 1px solid none;
+    font-size: 27px;
+    color:rgb(119, 119, 119)
+}
+.css29{border: 1px solid none;
+    font-family: Calibri;
+    font-size: 17px;
+    color:rgb(51, 51, 51) ;
+    text-align: center;
+    margin-top: 7%;
+}
+.css30{border: 1px solid none;
+    text-align: center;
+    height:7%;
+    width:20%;
+    color:white;
+}
+.css30 input{border:1px solid rgb(50, 233, 184);
+    height:40px ;
+    width: 70px;
+    background-color:rgb(50, 233, 184);
+    color: white;
+    margin-left: 200%;
+    border-radius: 3px;
+}
+.css30 input:hover{
+    color:none
+}
+.css31{border: 1px solid none;
+    height:22%;
+    width: 100%;
+    text-align: center;
+    background-color:rgb(50, 233, 184);
+    font-size: 27px;
+    color:white;
+    padding-top: 5%;
+    font-family:Calibri;
+}
+.css32{border: 1px solid none;
+    height:8%;
+    width:100%;
+    text-align: center;
+    padding-top: 5%;
+    color:white;
+    background-color:rgb(49, 220, 175);
+    font-family:Calibri;
+}
+.css33{border: 1px solid none;
+    font-size: 27px;
+    color:white
+}
+.css34{border: 1px solid none;
+    height: 700px;
+    width: 1500px;
+}
+.css35{border: 1px solid none;
+    height: 60%;
+    width: 20%;
+    float: left;
+    margin-left: 10%;
+}
+.css36{border: 1px solid none;
+    height: 40%;
+    width: 60%;
+    margin-left: 20%;
+}
+.css37{border: 1px solid none;
+    height: 50px;
+    width: 100%;
+    font-size: 27px;
+    text-align: center;
+    font-family: Calibri;
+    color: rgb(40, 39, 39);
+    margin-top: 4%;
+}
+.css38{border: 1px solid none;
+    height: 50px;
+    width: 100%;
+    font-size: 17px;
+    text-align: center;
+    font-family: Calibri;
+}
+.css39{border: 1px solid none;
+    border: 1px solid rgb(50, 233, 184);
+    height: 360px;
+    width: 1515px;
+    background-color: rgb(50, 233, 184);
+    margin: 0 auto;
+}
+.css40{border: 1px solid none;
+    font-size: 55px;
+    color: white;
+    text-align: center;
+    font-family: Calibri;
+    margin-top: 3%;
+    text-decoration:underline white;
+}
+.css41{border: 1px solid none;
+    height: 400px;
+    width: 1500px;
+    color: white;
+    font-family:Calibri;
+    font-size: 18px;
+    text-align: center;
+}
+.css42{border: 1px solid none;
+    width: 1500px;
+    height: 50px;
+    text-align: center;
+    margin-top: 10%;
+
+}
+.css42 i{border: 1px solid none;
+height: 50px;
+width: 100px;}
+
+.css44{border: 1px solid none;
+    text-align: center;
+    font-family: calibri;
+    font-size: 20px;
+    color: rgb(35, 35, 35);
+    height: 60px;
+    width: 1500PX;
+}
+
+@media screen and (max-width: 600px) 
+{
+.css{border: 1px solid none;
+    width: 100%;
+    height: 500px;
+    background-color:rgb(50, 233, 184);
+}
+.cssa{
+    border: 1px solid none;
+        height: 100px;
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        flex-direction: row;
+    }
+
+.css1{border-bottom: 3px solid white;
+    height: 50PX;
+    width: 100%;
+    color: white;
+    font-size: 45px;
+    letter-spacing: 2;
+    padding: 1% 0% 1% 7%;
+    font-family:Monotype Corsiva;
+    text-decoration:10px  white;
+    font-weight: 800;
+    padding-top: 50px;
+    margin-left: -4%;
+}
+.css2{border: 1px solid none;
+    height:10%;
+    width: 100%;
+    display: inline-block;
+    margin:-4% 8% 0px 55% ;
+    font-family: Calibri;
+    display: none;
+}
+.css2 ol li{
+    display: inline-block;
+    font-size: 16px;
+}
+.css2 ol li a{
+    color:white;
+    text-decoration: none;
+}
+.css2 ol li  input{ 
+    border:1px solid white;
+     color:white;
+      background-color:rgb(41, 166, 133);
+      height: 69%;
+      width:150%;
+      border-radius: 10px 10px 10px 10px;
+      text-decoration:none;
+      font-size: 16px;
+    }
+.css2 ol li input:hover{
+    background-color: rgb(50, 233, 184);
+}
+.css3{border: 1px solid none;
+    width: 100%;
+    color: white; 
+    font-size: 46px;
+    margin-top: -15%;
+    margin-left: -0%;
+    text-align: center;
+    font-family:Monotype Corsiva;
+    letter-spacing: 3;
+    font-weight: 500;
+    text-shadow: none;
+    
+}
+.css4a{border: 1px solid none; 
+    width: 100%;
+    display: flex;
+    align-items:center;
+    flex-direction: column;
+    margin-top: 100px;
+    justify-content: center;
+}
+.css4{border:1px solid none;
+    color: white;
+    font-size:15px;
+    text-align: center;
+    font-family: Calibri;
+    margin-left: 0%;
+    width: 100%;
+    line-height: 1.8;
+    
+}
+.css5{border:1px solid none;
+    border: 1px solid white;
+    height: 60%;
+    width: 100%;
+}
+.css6{border:1px solid none;
+    font-size: 55px;
+    color: #777;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration:underline rgb(50, 233, 184);
+    width: 100%;
+}
+.css7{border:1px solid none;
+    height:60%;
+    width:300px;
+    float:left;
+    transition:transform 0.2s;
+    height: 300px;
+    width: 100%;
+    margin-top: -2%;
+    margin-left: 0;
+}
+.css7:hover{
+    transform:translatey(-10px);
+}
+.css7 i{
+    color:rgb(50, 233, 184) ;
+    padding: 4% ;
+    margin-left: 40%;
+    width: 40%;border:1px solid none;
+    
+}
+
+.css8{font-size: 20px;
+    text-align: center;
+    font-family: Calibri;border:1px solid none;
+}
+.css9{border:1px solid none;
+    color:#777;
+    text-align: center;
+    font-family: Calibri;
+    width: 70% ;
+}
+.css10{border:1px solid none;
+    border:1px solid #777;
+    width: 100%;
+    height: 780px;
+    background-color: #ddd;
+    display: flex;
+    justify-content:center;
+    flex-direction: column;
+}
+.css11{border:1px solid none;
+    height: 300px;
+    width: 100%;
+}
+
+.css11a{border:1px solid none;
+    
+    width: 100%;
+    margin-top: -8%;
+}
+.css12{border:1px solid none;
+    width: 10%;
+    height: 17%;
+    
+
+}
+.css12 i{border:1px solid none;
+    margin-top: 19%;
+    margin-left: -19%;
+    border:2px solid rgb(50, 233, 184);
+    background-color: rgb(50, 233, 184) ;
+    border-radius: 100%;
+    color: white;
+    padding:25%;
+    
+}
+.css13{border:1px solid none;
+    font-size: 24px;
+    margin: -7% 0px 0px 19%;
+    font-family: Calibri;
+    width: 50%;
+}
+.css14{border:1px solid none;
+    font-family: calibri;
+    color:#777;
+    width: 70%;
+}
+.css15{border:1px solid none;
+    width:100%;
+    height:1800px;
+    border: 1px solid none;
+}
+.css16{border:1px solid none;
+    font-size: 55px;
+    color: #777;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow',Arial, sans-serif;
+    text-decoration:underline rgb(50, 233, 184);
+}
+.css17{border:1px solid none;
+    width:100%;
+    height: 240px ;
+    margin-top: 30px;
+}
+.css18{
+    border: 1px solid none;
+    width: 100%;
+    height: 300px;
+    background-color: rgb(228, 228, 228);
+}
+.css19{border:1px solid none;
+    height: 20%;
+    width: 50%;
+    margin-left:20% ;
+}
+.css20{border:1px solid none;
+    font-family: calibri;
+    font-weight:2px ;
+    font-size: 22px;
+    text-align: center;
+}
+.css21{border:1px solid none;
+    font-family: calibri;
+    color:#777;
+    font-size: 16px;
+    text-align: center;
+}
+.css22{border:1px solid none;
+    height:300px;
+    width: 100%;
+    background:url('../img/dashboard-img.jpg') center no-repeat fixed;
+    background-size: 100% 100%;
+}
+.css23{border:1px solid none;
+    text-align: center;
+    color:rgb(49, 49, 49);
+    font-family: calibri;
+    font-size: 19px;
+    margin-top: -17%;
+}
+.css24{border: 1px solid none;
+    height: 2400px;
+    width: 100%;
+    margin-top: 5%;
+}
+.css25{border:1px solid none;
+    height:700px;
+    width: 100%;
+    background-color: rgba(237, 235, 235, 0.272);
+    font-family:Calibri;
+    margin-left: 0%;
+    margin-top: 50px;
+}
+.css26{border:1px solid none;
+    height:22%;
+    width: 100%;
+    text-align: center;
+    background-color: rgba(209, 206, 206, 0.219);
+    font-size: 27px;
+    color: rgb(66, 66, 66);
+    padding-top: 5%;
+    font-family:Calibri;
+}
+.css27{border:1px solid none;
+    height:8%;
+    width: 100%;
+    text-align: center;
+    padding-top: 5%;
+    color: rgb(36, 35, 35);
+    background-color: rgba(209, 206, 206, 0.331);
+    font-family:Calibri;
+}
+.css28{border:1px solid none;
+    font-size: 27px;
+    color:rgb(119, 119, 119)
+}
+.css29{border:1px solid none;
+    font-family: Calibri;
+    font-size: 17px;
+    color:rgb(51, 51, 51) ;
+    text-align: center;
+    margin-top: 7%;
+}
+.css30{border:1px solid none;
+    text-align: center;
+    height:7%;
+    width:20%;
+    color:white;
+}
+.css30 input{border:1px solid rgb(50, 233, 184);
+    height:40px ;
+    width: 70px;
+    background-color:rgb(50, 233, 184);
+    color: white;
+    margin-left: 200%;
+    border-radius: 3px;
+}
+.css30 input:hover{border:1px solid none;
+    color:none
+}
+.css31{border:1px solid none;
+    height:22%;
+    width: 100%;
+    text-align: center;
+    background-color:rgb(50, 233, 184);
+    font-size: 27px;
+    color:white;
+    padding-top: 5%;
+    font-family:Calibri;
+}
+.css32{border:1px solid none;
+    height:8%;
+    width:100%;
+    text-align: center;
+    padding-top: 5%;
+    color:white;
+    background-color:rgb(49, 220, 175);
+    font-family:Calibri;
+}
+.css33{border:1px solid none;
+    font-size: 27px;
+    color:white
+}
+.css34{border: 1px solid none;
+    height: 1400px;
+    width: 100%;
+}
+.css35{border: 1px solid none;
+    height: 400px;
+    width: 100%;
+    margin-left: 0;
+    
+}
+.css36{border: 1px solid none;
+    height: 200px;
+    width: 100%;
+    margin-left: 0px;
+    margin-top: 8%;
+    
+}
+.css36 img{height: 100%;width: 100%;}
+.css37{border: 1px solid none;
+    height: 100px;
+    width: 100%;
+    font-size: 27px;
+    text-align: center;
+    font-family: Calibri;
+    color: rgb(40, 39, 39);
+}
+.css38{border: 1px solid none;
+    height: 27%;
+    width: 100%;
+    font-size: 17px;
+    text-align: center;
+    font-family: Calibri;
+}
+.css38{border:1px solid none;
+    height: 140px;
+    width: 100%;
+    font-size: 17px;
+    text-align: center;
+    font-family: Calibri;
+}
+.css39{border:1px solid none;
+    border: 1px solid rgb(50, 233, 184);
+    height: 335px;
+    width: 100%;
+    background-color: rgb(50, 233, 184);
+}
+.css40{border:1px solid none;
+    font-size: 55px;
+    color: white;
+    text-align: center;
+    font-family: Calibri;
+    text-decoration:underline white;
+}
+.css41{border:1px solid none;
+    height: 100px;
+    width: 100%;
+    color: white;
+    font-family:Calibri;
+    font-size: 15px;
+    text-align: center;
+}
+.css42{border:1px solid none;
+    width: 100%;
+    height: 40px;
+    text-align: center;
+    margin-top: 10%;
+    margin-left: 0;
+    display: flex;
+    justify-content: center;
+    flex-direction: rows;
+}
+.css42 i{width: 40px;}
+.css43{border:1px solid none;
+    width: 100%;
+    height: 40px;
+    text-align: center;
+    
+}
+.css44{border:1px solid none;
+    text-align: center;
+    font-family: calibri;
+    font-size: 16px;
+    color: rgb(35, 35, 35);
+    width: 100%;
+}
+}
